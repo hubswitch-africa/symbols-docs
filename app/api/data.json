@@ -1,0 +1,272 @@
+[
+  {
+    "name": "Nigerian Naira",
+    "prefix": "Nigeria",
+    "body": "₦"
+  },
+  {
+    "name": "Algerian dinar",
+    "prefix": "Algeria",
+    "body": "دج"
+  },
+  {
+    "name": "Congolese franc",
+    "prefix": "Democratic republic of congo",
+    "body": "FC"
+  },
+  {
+    "name": "Sudanese pound",
+    "prefix": "Sudan",
+    "body": "ج.س."
+  },
+  {
+    "name": "Libyan Dinar",
+    "prefix": "Libya",
+    "body": "ل.د"
+  },
+  {
+    "name": "Central African CFA franc (Chad)",
+    "prefix": "Chad",
+    "body": "FCFA"
+  },
+  {
+    "name": "West African CFA franc (Niger)",
+    "prefix": "Niger",
+    "body": "CFA"
+  },
+  {
+    "name": "Angolan kwanza",
+    "prefix": "Angola",
+    "body": "Kz"
+  },
+  {
+    "name": "West African CFA franc (Mali)",
+    "prefix": "Mali",
+    "body": "CFA"
+  },
+  {
+    "name": "South African rand",
+    "prefix": "South Africa",
+    "body": "R"
+  },
+  {
+    "name": "Ethiopian birr",
+    "prefix": "Ethiopa",
+    "body": "ብር"
+  },
+  {
+    "name": "Mauritanian ouguiya",
+    "prefix": "Mauritania",
+    "body": "UM"
+  },
+  {
+    "name": "Egyptian pound",
+    "prefix": "Egypt",
+    "body": "ج.م"
+  },
+  {
+    "name": "Tanzanian shilling",
+    "prefix": "Tanzania",
+    "body": "TSh"
+  },
+  {
+    "name": "Namibian dollar",
+    "prefix": "Namibia",
+    "body": "N$"
+  },
+  {
+    "name": "Mozambican metical",
+    "prefix": "Mozambique",
+    "body": "MT"
+  },
+  {
+    "name": "Zambian kwacha",
+    "prefix": "Zambia",
+    "body": "ZK"
+  },
+  {
+    "name": "South Sudanese pound",
+    "prefix": "South Sudan",
+    "body": "£"
+  },
+  {
+    "name": "Somali shilling",
+    "prefix": "Somalia",
+    "body": "Sh.so."
+  },
+  {
+    "name": "Central African CFA franc (Central African Republic)",
+    "prefix": "Central African Republic",
+    "body": "FCFA"
+  },
+  {
+    "name": "Malagasy Ariary",
+    "prefix": "Madagascar",
+    "body": "Ar"
+  },
+  {
+    "name": "Botswana Pula",
+    "prefix": "Botswana",
+    "body": "P"
+  },
+  {
+    "name": "Kenyan Shilling",
+    "prefix": "Kenya",
+    "body": "Ksh"
+  },
+  {
+    "name": "Central African CFA franc (Cameroon)",
+    "prefix": "Cameroon",
+    "body": "FCFA"
+  },
+  {
+    "name": "Moroccan Dirham",
+    "prefix": "Morocco",
+    "body": "MAD"
+  },
+  {
+    "name": "United States Dollar (Zimbabwe)",
+    "prefix": "Zimbabwe",
+    "body": "$"
+  },
+  {
+    "name": "Congolese franc (Republic of congo)",
+    "prefix": "Republic of congo",
+    "body": "FC"
+  },
+  {
+    "name": "West African CFA franc (Côte d'Ivoire)",
+    "prefix": "Ivory Coast",
+    "body": "CFA"
+  },
+  {
+    "name": "West African CFA franc (Burkina Faso)",
+    "prefix": "Burkina faso",
+    "body": "CFA"
+  },
+  {
+    "name": "Central African CFA franc (Gabon)",
+    "prefix": "Gabon",
+    "body": "FCFA"
+  },
+  {
+    "name": "Sahrawi Peseta",
+    "prefix": "Sahrawi Arab Democratic Republic",
+    "body": "₧"
+  },
+  {
+    "name": "Guinean Franc",
+    "prefix": "Guinea",
+    "body": "GFr"
+  },
+  {
+    "name": "Ghanaian cedi",
+    "prefix": "Ghana",
+    "body": "GH¢, GH₵"
+  },
+  {
+    "name": "Ugandan shilling",
+    "prefix": "Uganda",
+    "body": "USh"
+  },
+  {
+    "name": "West African CFA franc (Senegal)",
+    "prefix": "Senegal",
+    "body": "CFA"
+  },
+  {
+    "name": "Tunisian Dinar",
+    "prefix": "Tunisia",
+    "body": "د.ت"
+  },
+  {
+    "name": "Malawian kwacha",
+    "prefix": "Malawi",
+    "body": "MK"
+  },
+  {
+    "name": "Eritrean nakfa",
+    "prefix": "Eritrea",
+    "body": "نافكا"
+  },
+  {
+    "name": "West African CFA franc (Benin)",
+    "prefix": "Benin",
+    "body": "CFA"
+  },
+  {
+    "name": "Sierra Leonean leone",
+    "prefix": "Sierra Leone",
+    "body": "Le"
+  },
+  {
+    "name": "West African CFA franc (Togo)",
+    "prefix": "Togo",
+    "body": "CFA"
+  },
+  {
+    "name": "West African CFA franc (Guinea Bissau)",
+    "prefix": "Guinea Bissau",
+    "body": "CFA"
+  },
+  {
+    "name": "Lesotho loti",
+    "prefix": "Lesotho",
+    "body": "L"
+  },
+  {
+    "name": "Central African CFA franc (Equatorial Guinea)",
+    "prefix": "Equatorial Guinea",
+    "body": "FCFA"
+  },
+  {
+    "name": "Burundian franc",
+    "prefix": "Burundi",
+    "body": "FBu"
+  },
+  {
+    "name": "Rwandan franc",
+    "prefix": "Rwanda",
+    "body": "R₣"
+  },
+  {
+    "name": "Djiboutian franc",
+    "prefix": "Djibouti",
+    "body": "Fdj"
+  },
+  {
+    "name": "Swazi lilangeni",
+    "prefix": "Eswatini",
+    "body": "E"
+  },
+  {
+    "name": "Gambian dalasi",
+    "prefix": "The Gambia",
+    "body": "D"
+  },
+  {
+    "name": "Cape Verdean escudo",
+    "prefix": "Cape Verde",
+    "body": "$"
+  },
+  {
+    "name": "Comorian franc",
+    "prefix": "Comoros",
+    "body": "CF"
+  },
+  {
+    "name": "Mauritian rupee",
+    "prefix": "Mauritius",
+    "body": "₨"
+  },
+  {
+    "name": "São Tomé and Príncipe dobra",
+    "prefix": "Sao tome and principe",
+    "body": "Db"
+  },
+  {
+    "name": "Seychellois rupee",
+    "prefix": "Seychelles",
+    "body": "SRe"
+  }
+]
