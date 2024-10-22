@@ -1,12 +1,9 @@
 'use client';
 import { useState } from 'react';
 import symbols from '../api/data.json';
-// import * as fs from 'fs';
 
 const SymbolSearch = () => {
   const [query, setQuery] = useState('');
-//   const jsonData = fs.readFileSync('../api/data.json', 'utf-8');
-//   const data = JSON.parse(jsonData);
 
   return (
     <>
@@ -14,7 +11,7 @@ const SymbolSearch = () => {
             <input 
                 type="text" 
                 className="bg-inherit rounded w-full outline-none p-2.5 border-zinc-500 border text-white placeholder:text-dark-700" 
-                placeholder="Search For a Symbol..."
+                placeholder="Find a country..."
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
             />
@@ -24,7 +21,7 @@ const SymbolSearch = () => {
             (data) => {
                 return query.toLowerCase() === ''
                 ? data
-                : data.name.toLowerCase().includes(query) || data.name.toUpperCase().includes(query);
+                : data.prefix.toLowerCase().includes(query) || data.prefix.toUpperCase().includes(query);
             }).map(data => (
             <>
                 <div className="p-5 flex justify-start content-normal text-center">
