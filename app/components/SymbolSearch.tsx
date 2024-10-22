@@ -1,9 +1,12 @@
 'use client';
 import { useState } from 'react';
-import * as symbols from '../api/data.json';
+import symbols from '../api/data.json';
+// import * as fs from 'fs';
 
 const SymbolSearch = () => {
   const [query, setQuery] = useState('');
+//   const jsonData = fs.readFileSync('../api/data.json', 'utf-8');
+//   const data = JSON.parse(jsonData);
 
   return (
     <>
