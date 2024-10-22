@@ -1,6 +1,5 @@
 import type { Metadata } from "next";
 import localFont from "next/font/local";
-import Header from "./components/Header";
 import "./globals.css";
 
 const geistSans = localFont({
@@ -27,7 +26,6 @@ export default function RootLayout({ children, }: Readonly<{
       <link rel="icon" href="/favicon.png" sizes="any" />
       <link rel="shortcut icon" href="/favicon.png" type="image/x-icon" />
       <body className={`${geistSans.variable} ${geistMono.variable} antialiased`}>
-        <Header />
         {children}
       </body>
     </html>

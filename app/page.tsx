@@ -1,11 +1,11 @@
 'use client';
 import React from 'react';
-import SymbolSearch from './components/SymbolSearch';
+import SymbolPage from './components/SymbolPage';
 
 const page = () => {
   return (
     <>
-      <SymbolSearch />
+      <SymbolPage />
     </>
   )
 }
